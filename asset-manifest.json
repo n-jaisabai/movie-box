@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.2cce8147.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.750bcd0f.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.750bcd0f.chunk.js.map",
-    "runtime~main.js": "/react-gh-pages/static/js/runtime~main.ac2d5040.js",
-    "runtime~main.js.map": "/react-gh-pages/static/js/runtime~main.ac2d5040.js.map",
-    "static/js/2.b41502e9.chunk.js": "/react-gh-pages/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/react-gh-pages/static/js/2.b41502e9.chunk.js.map",
-    "index.html": "/react-gh-pages/index.html",
-    "precache-manifest.cae92349879c43c936844ca6b9055730.js": "/react-gh-pages/precache-manifest.cae92349879c43c936844ca6b9055730.js",
-    "service-worker.js": "/react-gh-pages/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/react-gh-pages/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/react-gh-pages/static/media/logo.5d5d9eef.svg"
+    "main.css": "/movie-box/static/css/main.2cce8147.chunk.css",
+    "main.js": "/movie-box/static/js/main.ac47fe1d.chunk.js",
+    "main.js.map": "/movie-box/static/js/main.ac47fe1d.chunk.js.map",
+    "runtime~main.js": "/movie-box/static/js/runtime~main.4991e734.js",
+    "runtime~main.js.map": "/movie-box/static/js/runtime~main.4991e734.js.map",
+    "static/js/2.b41502e9.chunk.js": "/movie-box/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/movie-box/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/movie-box/index.html",
+    "precache-manifest.397612414483ed6b9c80025e864cf8f0.js": "/movie-box/precache-manifest.397612414483ed6b9c80025e864cf8f0.js",
+    "service-worker.js": "/movie-box/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/movie-box/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/movie-box/static/media/logo.5d5d9eef.svg"
   }
 }
